@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   title: SimpleKart E-commerce API
-  version: 1.0.0
+  version: 2.0.0
   contact:
     name: Postman Team
     email: simplekart@postman.com
